@@ -284,7 +284,7 @@ export const workExperiences = [
   name: 'Maestro Technologies',
   pos: 'Front End Developer',
   duration: '2025 Sept - Present',
-  title: "Front-End Developer at Maestro Tech – Building responsive, user-friendly, and scalable web applications with Next.js/React.js, Tailwind CSS, TypeScript/Javascript, Shopify and Wordpress while collaborating with teams to deliver seamless digital experiences.",
+  title: "Front-End Developer at Maestro Tech – Building responsive, user-friendly, and scalable web applications with Next.js/React.js, Tailwind CSS, Typescript/Javascript, Shopify and Wordpress while collaborating with teams to deliver seamless digital experiences.",
   icon: '/assets/maestrotech-logo.jpeg',
   animation: 'victory',
 },
